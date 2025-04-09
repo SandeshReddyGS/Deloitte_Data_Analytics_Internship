@@ -33,7 +33,7 @@ Fair (+-10)
 Unfair (<-10 AND >10)
 Highly Discriminative (<-20 AND >20)
 ## Examples:
-10 → Fair
--9 → Unfair
--30 → Highly Discriminative
-The edited version of the file : - <a href="https://github.com/SandeshReddyGS/Deloitte_Data_Analytics_Internship/blob/main/Task%205%20Equality%20Table.xlsx">Equality Table</a>
+* 10 → Fair
+* -9 → Unfair
+* -30 → Highly Discriminative
+## The edited version of the file : - <a href="https://github.com/SandeshReddyGS/Deloitte_Data_Analytics_Internship/blob/main/Task%205%20Equality%20Table.xlsx">Equality Table</a>
